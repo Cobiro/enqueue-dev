@@ -111,7 +111,9 @@
     }
   },
   "extra": {
-    "dev-master": "add-php-8-2"
+    "branch-alias": {
+      "dev-master": "add-php-8-2"
+    }
   },
   "config": {
     "bin-dir": "bin",
