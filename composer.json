@@ -110,6 +110,9 @@
       "RdKafka\\": "vendor/kwn/php-rdkafka-stubs/stubs/RdKafka"
     }
   },
+  "extra": {
+    "dev-master": "add-php-8-2"
+  },
   "config": {
     "bin-dir": "bin",
     "platform": {
